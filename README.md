@@ -13,8 +13,8 @@ Libraries: selenium, pandas, openpyxl
 2. Place the input player list file (Players_List_Tennis.xlsx) in the source folder.
 
 3. Run the main.py script by executing the following command:
-python main.py
-The script will prompt you to choose either men or women's data extraction by entering 'M' or 'W', respectively.
+   python main.py
+   The script will prompt you to choose either men or women's data extraction by entering 'M' or 'W', respectively.
 
 4. The script will read the player list from the provided input file (source/Players_List_Tennis.xlsx), extract the data from the website for the corresponding gender, and save it in a new Excel file with the desired formatting (output.xlsx).
 
