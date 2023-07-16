@@ -28,7 +28,7 @@ Libraries: selenium, pandas, openpyxl
 
 2. scraping_men.py: Contains functions to scrape data from tennisabstract.com for men's players.
    
-3.scraping_women.py: Contains functions to scrape data from tennisabstract.com for women's players.
+3. scraping_women.py: Contains functions to scrape data from tennisabstract.com for women's players.
 
 4. column_header_men.py: Defines the column headers for men's data in the output Excel file.
    
