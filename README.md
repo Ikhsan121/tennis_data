@@ -38,13 +38,9 @@ Libraries: selenium, pandas, openpyxl
 
 8. source/Players_List_Tennis.xlsx: Input file containing the list of players (separated by gender) for data extraction.
 
-9. ss3_template.xlsx: Example file showing the desired output formatting for the script.
+9. men.xlsx and women.xlsx: Output file where the extracted data is saved with the desired formatting.
 
-10. output.xlsx: Output file where the extracted data is saved with the desired formatting.
-
-11. error_output.xlsx: Error output file where any errors or missing player pages are recorded.
-
-12. master_list.xlsx: Master list file containing the players' names and links to their corresponding pages on tennisabstract.com.
+10. failed_name.xlsx: Error output file where any errors or missing player pages are recorded.
 
 ## Note
 Please note that this script relies on web scraping, and the structure of the target website (tennisabstract.com) may change over time. In case of any changes to the website's structure, the script may need to be updated accordingly.
